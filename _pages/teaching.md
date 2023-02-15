@@ -9,8 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Course 1
+TA for AS 212 Honors Linear Algebra
 =====
 
-Course 2
+
+Grader for AS 304 Elementary number theory 
 =====
+
+
+TA for AS 107 Calculus II
+=====
+
+
+TA for AS 602: Algebra II
+=====
+
+

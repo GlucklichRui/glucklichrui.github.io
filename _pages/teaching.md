@@ -29,7 +29,7 @@ Teaching assistant for AS.110.201 Linear Algebra
 =====
 
 
-Teaching assistant for Grader for AS.110.202 Calculus III
+Teaching assistant for AS.110.202 Calculus III
 =====
 
 

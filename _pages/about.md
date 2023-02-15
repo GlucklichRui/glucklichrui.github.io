@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the math department of [Johns Hopkins University](https://mathematics.jhu.edu/), my advisor is [Yiannis Sakellaridis](https://math.jhu.edu/~sakellar/). 
+I am a PhD student at the math department of [Johns Hopkins University](https://mathematics.jhu.edu/), my graduate advisor is [Yiannis Sakellaridis](https://math.jhu.edu/~sakellar/). 
 
 
 I did my undergraduate study at the math department of [Tsinghua University](https://math.tsinghua.edu.cn/), my undergraduate advisor is [Bin Xu](https://sites.google.com/view/binxumath/home).

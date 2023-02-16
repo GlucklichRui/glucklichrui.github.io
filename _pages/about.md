@@ -17,5 +17,5 @@ I did my undergraduate study at the math department of [Tsinghua University](htt
 I am interested about the relative Langlands program, Arthur's endoscopic classification of automorphic representations. 
 
 
-I benifit a lot from the online [automorphic project seminar](https://researchseminars.org/seminar/AutomorphicProject) and [atlas seminar](https://researchseminars.org/seminar/atlas).
+I benefit a lot from the online [automorphic project seminar](https://researchseminars.org/seminar/AutomorphicProject) and [atlas seminar](https://researchseminars.org/seminar/atlas).
  

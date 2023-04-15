@@ -9,4 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-[Notes 1](https://glucklichrui.github.io/files/CV.pdf)
+I write some notes, which reflect my understanding and interests on automorphic representation theory and its related fields. 
+
+
+Automorphic representation theory:
+
+
+[Geometric Satake equivalence]
+
+
+Automorphic representation theory and arithmetic geometry:
+
+
+[An AFL for full Hecke algebra]()

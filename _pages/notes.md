@@ -21,4 +21,4 @@ Automorphic representation theory:
 Automorphic representation theory and arithmetic geometry:
 
 
-[An AFL for full Hecke algebra](https://glucklichrui.github.io/files/AFL.pdf)
+[An AFL for the whole Hecke algebra](https://glucklichrui.github.io/files/AFL.pdf)

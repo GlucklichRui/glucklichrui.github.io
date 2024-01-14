@@ -19,6 +19,11 @@ Algebraic groups:
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Classification_of_spherical_varieties.pdf)
 
+Representation theory:
+
+
+[Langlands dual group for spherical varieties]((https://glucklichrui.github.io/files/Dual_group.pdf))
+
 
 
 

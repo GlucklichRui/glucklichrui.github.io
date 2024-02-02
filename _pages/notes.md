@@ -19,6 +19,9 @@ Algebraic groups and Lie groups:
 [Borel-Tits theory](https://glucklichrui.github.io/files/Borel_Tits_theory.pdf)
 
 
+[Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf)
+
+
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Classification_of_spherical_varieties.pdf)
 
 

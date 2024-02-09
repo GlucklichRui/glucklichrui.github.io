@@ -184,9 +184,14 @@ collections:
 #   portfolio:
 #     output: true
 #     permalink: /:collection/:path/
-  seminars:
+    seminars:
     output: true
     permalink: /:collection/:path/
+    places:
+    output: true
+    permalink: /:collection/:path/
+
+   
 
 
 # Defaults

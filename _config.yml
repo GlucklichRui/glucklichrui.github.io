@@ -184,10 +184,10 @@ collections:
 #   portfolio:
 #     output: true
 #     permalink: /:collection/:path/
-    seminars:
+  seminars:
     output: true
     permalink: /:collection/:path/
-    places:
+  places:
     output: true
     permalink: /:collection/:path/
 

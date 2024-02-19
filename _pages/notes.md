@@ -32,6 +32,12 @@ Representation theory:
 [Langlands dual group for spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)
 
 
+Classics: 
+
+
+[Factorization of period Integrals](https://glucklichrui.github.io/files/Factorization.pdf) 
+
+
 
 
 

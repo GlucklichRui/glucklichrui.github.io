@@ -35,7 +35,7 @@ Representation theory:
 Classics: 
 
 
-[Factorization of period Integrals](https://glucklichrui.github.io/files/Factorization.pdf) 
+[Factorization of Period Integrals](https://glucklichrui.github.io/files/Factorization.pdf) 
 
 
 

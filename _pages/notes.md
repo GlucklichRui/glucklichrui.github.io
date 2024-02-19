@@ -13,10 +13,7 @@ I write some notes, which reflect my understanding and interests on automorphic 
 
 Algebraic groups and Lie groups:
 
-[Root system](https://glucklichrui.github.io/files/Root_system.pdf) 
-
-
-[Borel-Tits theory](https://glucklichrui.github.io/files/Borel_Tits_theory.pdf)
+[Root system](https://glucklichrui.github.io/files/Root_system.pdf), [Borel-Tits theory](https://glucklichrui.github.io/files/Borel_Tits_theory.pdf)
 
 
 [Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf)

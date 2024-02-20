@@ -34,7 +34,7 @@ redirect_from:
 * Grader for AS.110.616 Algebraic Topology II
 
 
-See a picture that I am teaching [Undergraduate calculus](https://krieger.jhu.edu/writing-program/projects/mathematics/).
+See a picture that I am teaching [undergraduate calculus](https://krieger.jhu.edu/writing-program/projects/mathematics/).
 
 
 

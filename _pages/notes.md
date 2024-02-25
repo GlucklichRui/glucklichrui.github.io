@@ -21,6 +21,8 @@ Algebraic groups and Lie groups:
 
 Representation theory:
 
+[Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
+
 
 [Langlands dual group for spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)
 

@@ -30,7 +30,7 @@ Representation theory:
 Classics: 
 
 
-[Weyl integration formula](https://glucklichrui.github.io/files/Weyl_integration_formula.pdf)
+[Weyl integration formula](https://glucklichrui.github.io/files/Weyl_integration_formula.pdf), [Plancherel formula for SL2](https://glucklichrui.github.io/files/Plancherel_formula.pdf)
 
 
 [Factorization of Period Integrals](https://glucklichrui.github.io/files/Factorization.pdf) 

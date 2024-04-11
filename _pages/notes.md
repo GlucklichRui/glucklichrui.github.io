@@ -19,6 +19,11 @@ Algebraic groups and Lie groups:
 [Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf)
 
 
+Harmonic analysis: 
+
+[Fourier transform](https://glucklichrui.github.io/files/Fourier_transform.pdf)
+
+
 Representation theory:
 
 [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)

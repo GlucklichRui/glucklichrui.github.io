@@ -16,6 +16,9 @@ Algebraic groups and Lie groups:
 [Root system](https://glucklichrui.github.io/files/Root_system.pdf), [Borel-Tits theory](https://glucklichrui.github.io/files/Borel_Tits_theory.pdf), [Spherical root system](https://glucklichrui.github.io/files/Spherical_root_system.pdf)
 
 
+[Smooth affine spherical varieties](https://glucklichrui.github.io/files/smooth_affine.pdf)
+
+
 [Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf)
 
 
@@ -35,6 +38,9 @@ Representation theory:
 Classics: 
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf)
+
+
+[Adams' conjectures](https://glucklichrui.github.io/files/dual_pairs.pdf)
 
 
 [Weyl integration formula](https://glucklichrui.github.io/files/Weyl_integration_formula.pdf), [Plancherel formula for SL2](https://glucklichrui.github.io/files/Plancherel_formula.pdf)

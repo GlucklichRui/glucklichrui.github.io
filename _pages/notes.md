@@ -29,7 +29,7 @@ Harmonic analysis:
 
 Representation theory:
 
-[Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
+[Transcendental version of the theory of spherical harmonics](https://glucklichrui.github.io/files/spherical_harmonics.pdf), [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
 
 
 [Langlands dual group for spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)

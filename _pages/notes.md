@@ -32,6 +32,9 @@ Representation theory:
 [Transcendental version of the theory of spherical harmonics](https://glucklichrui.github.io/files/spherical_harmonics.pdf), [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
 
 
+[Representations of Metaplectic group](https://glucklichrui.github.io/files/Metaplectic_group.pdf)
+
+
 [Langlands dual group for spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)
 
 

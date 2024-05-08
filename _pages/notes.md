@@ -40,7 +40,7 @@ Representation theory:
 
 Classics: 
 
-[Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf)
+[Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)
 
 
 [Adams' conjectures](https://glucklichrui.github.io/files/dual_pairs.pdf)

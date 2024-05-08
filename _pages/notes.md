@@ -38,6 +38,9 @@ Representation theory:
 [G-inner form](https://glucklichrui.github.io/files/Geometric_cocycle.pdf), [Langlands dual group for spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)
 
 
+Number Theory: 
+
+
 Classics: 
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)

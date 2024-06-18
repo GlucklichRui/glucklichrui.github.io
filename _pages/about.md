@@ -26,7 +26,10 @@ I benefit a lot from the online [automorphic project seminar](https://researchse
 <div style="text-align: right"> The world becomes stranger, the pattern more complicated </div>
 
 
-<div style="text-align: right"> Of dead and living. -T.S.Eliot  </div>
+<div style="text-align: right"> Of dead and living. </div>
+
+
+<div style="text-align: right"> -T.S.Eliot  </div>
 
 
 

@@ -20,5 +20,14 @@ I am interested about the relative Langlands program, which is an extension of t
 I benefit a lot from the online [automorphic project seminar](https://researchseminars.org/seminar/AutomorphicProject) and [atlas seminar](https://researchseminars.org/seminar/atlas).
 
 
+"Home is where one starts from. As we grow older
+
+
+The world becomes stranger, the pattern more complicated 
+
+
+Of dead and living. "-  T.S.Eliot 
+
+
 
  

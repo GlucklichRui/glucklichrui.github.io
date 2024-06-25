@@ -38,7 +38,7 @@ Representation theory:
 [G-inner form](https://glucklichrui.github.io/files/Geometric_cocycle.pdf), [Langlands dual group for spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)
 
 
-Calculations:  
+Calculations and interesting point of views:   
 
 
 Classics: 
@@ -53,6 +53,9 @@ Classics:
 
 
 [Factorization of Period Integrals](https://glucklichrui.github.io/files/Factorization.pdf) 
+
+
+[Arthur packets and Ramanujan conjecture](https://glucklichrui.github.io/files/Shahidi.pdf)  
 
 
 

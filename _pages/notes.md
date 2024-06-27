@@ -22,6 +22,9 @@ Algebraic groups and Lie groups:
 [Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf)
 
 
+[Dual group of spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)
+
+
 Harmonic analysis: 
 
 [Fourier transform](https://glucklichrui.github.io/files/Fourier_transform.pdf)

@@ -43,6 +43,8 @@ Representation theory:
 
 Calculations and interesting point of views:   
 
+[Koszul duality](https://glucklichrui.github.io/files/Koszul_duality.pdf)
+
 
 Classics: 
 

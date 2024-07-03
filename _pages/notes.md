@@ -43,7 +43,7 @@ Representation theory:
 
 Calculations and interesting point of views:   
 
-[Koszul duality](https://glucklichrui.github.io/files/Koszul_duality.pdf), [Categorical Plancherel formula](https://glucklichrui.github.io/files/Categorical_plancherel_formula.pdf)
+[Koszul duality](https://glucklichrui.github.io/files/Koszul_duality.pdf), [Categorical Plancherel formula](https://glucklichrui.github.io/files/Categorical_Plancherel_formula.pdf)
 
 
 Classics: 

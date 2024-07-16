@@ -46,6 +46,9 @@ Calculations and interesting point of views:
 [Koszul duality](https://glucklichrui.github.io/files/Koszul_duality.pdf), [Categorical Plancherel formula](https://glucklichrui.github.io/files/Categorical_Plancherel_formula.pdf)
 
 
+[Equivariant cohomology](https://glucklichrui.github.io/files/Equivariant_cohomology.pdf)
+
+
 Classics: 
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)

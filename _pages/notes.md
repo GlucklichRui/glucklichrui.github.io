@@ -32,7 +32,7 @@ Harmonic analysis:
 
 Representation theory:
 
-[Fourier transform](https://glucklichrui.github.io/files/Theta_stable.pdf), [Transcendental version of the theory of spherical harmonics](https://glucklichrui.github.io/files/spherical_harmonics.pdf), [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
+[Theta correspondence in the stable range](https://glucklichrui.github.io/files/Theta_stable.pdf), [Transcendental version of the theory of spherical harmonics](https://glucklichrui.github.io/files/spherical_harmonics.pdf), [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
 
 
 [Representations of Metaplectic group](https://glucklichrui.github.io/files/Metaplectic_group.pdf)

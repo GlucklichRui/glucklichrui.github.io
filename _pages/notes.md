@@ -16,10 +16,7 @@ Algebraic groups and Lie groups:
 [Root system](https://glucklichrui.github.io/files/Root_system.pdf), [Borel-Tits theory](https://glucklichrui.github.io/files/Borel_Tits_theory.pdf), [Spherical root system](https://glucklichrui.github.io/files/Spherical_root_system.pdf)
 
 
-[Smooth affine spherical varieties](https://glucklichrui.github.io/files/smooth_affine.pdf), [Harish-Chandra homomorphism for spherical varieties](https://glucklichrui.github.io/files/Harish_Chandra_homomorphism.pdf) 
-
-
-[Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf)
+[Smooth affine spherical varieties](https://glucklichrui.github.io/files/smooth_affine.pdf), [Harish-Chandra homomorphism for spherical varieties](https://glucklichrui.github.io/files/Harish_Chandra_homomorphism.pdf) , [Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf)
 
 
 [Dual group of spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)

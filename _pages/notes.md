@@ -46,6 +46,9 @@ Calculations and interesting point of views:
 [Equivariant cohomology](https://glucklichrui.github.io/files/Equivariant_cohomology.pdf)
 
 
+[Moment maps and geometric invariant theory](https://glucklichrui.github.io/files/moment_maps.pdf)
+
+
 Classics: 
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)

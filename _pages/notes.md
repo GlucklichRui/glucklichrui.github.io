@@ -49,6 +49,9 @@ Calculations and interesting point of views:
 [Moment maps and geometric invariant theory](https://glucklichrui.github.io/files/moment_maps.pdf)
 
 
+[Wave front sets](https://glucklichrui.github.io/files/Wave_front_sets.pdf) 
+
+
 Classics: 
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)

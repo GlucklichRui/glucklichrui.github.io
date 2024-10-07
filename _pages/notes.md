@@ -27,7 +27,7 @@ Harmonic analysis:
 [Fourier transform](https://glucklichrui.github.io/files/Fourier_transform.pdf)
 
 
-Representation theory:
+Representation theory and arithmetic:
 
 [Theta correspondence in the stable range](https://glucklichrui.github.io/files/Theta_stable.pdf), [Transcendental version of the theory of spherical harmonics](https://glucklichrui.github.io/files/spherical_harmonics.pdf), [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
 
@@ -36,6 +36,10 @@ Representation theory:
 
 
 [G-inner form](https://glucklichrui.github.io/files/Geometric_cocycle.pdf), [Langlands dual group for spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)
+
+
+
+[Shimura varieties](https://glucklichrui.github.io/files/Shimura_varieties.pdf) 
 
 
 Calculations and interesting point of views:   

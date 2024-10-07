@@ -66,7 +66,7 @@ Classics:
 [Factorization of Period Integrals](https://glucklichrui.github.io/files/Factorization.pdf) 
 
 
-[Arthur packets and Ramanujan conjecture](https://glucklichrui.github.io/files/Shahidi.pdf)  
+[Arthur packets and Ramanujan conjecture](https://glucklichrui.github.io/files/Shahidi.pdf), [Satake isomorphism] (https://glucklichrui.github.io/files/Satake.pdf)
 
 
 

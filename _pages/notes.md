@@ -56,6 +56,9 @@ Calculations and interesting point of views:
 [Wave front sets](https://glucklichrui.github.io/files/Wave_front_sets.pdf) 
 
 
+[An Euler system of Heegner type](https://glucklichrui.github.io/files/Euler_Heegner.pdf) 
+
+
 Classics: 
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)

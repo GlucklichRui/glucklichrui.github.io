@@ -25,7 +25,7 @@ Algebraic groups and Lie groups:
 [Harish-Chandra homomorphism for spherical varieties](https://glucklichrui.github.io/files/Harish_Chandra_homomorphism.pdf) 
 
 
-[Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf)
+[Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf), [Automorphism groups of multiplicity free Hamiltonian manifolds](https://glucklichrui.github.io/files/Automorphism_Hamiltonian.pdf) 
 
 
 [Dual group of spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)

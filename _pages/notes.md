@@ -47,8 +47,7 @@ Representation theory and arithmetic:
 [Representations of Metaplectic group](https://glucklichrui.github.io/files/Metaplectic_group.pdf)
 
 
-[G-inner form](https://glucklichrui.github.io/files/Geometric_cocycle.pdf)
-
+[Periods of Eisenstein series](https://glucklichrui.github.io/files/Eisenstein_series.pdf)
 
 
 [Shimura varieties](https://glucklichrui.github.io/files/Shimura_varieties.pdf) 

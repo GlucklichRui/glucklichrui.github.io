@@ -36,7 +36,7 @@ Harmonic analysis:
 [Fourier transform](https://glucklichrui.github.io/files/Fourier_transform.pdf)
 
 
-[Explicit Plancherel formula](https://glucklichrui.github.io/files/Explicit_Plancherel_formula.pdf)
+[Explicit Plancherel formula](https://glucklichrui.github.io/files/Explicit_Plancherel_formula.pdf), [Asai Rankin-Selberg integrals](https://glucklichrui.github.io/files/Asai_Rankin_Selberg.pdf) 
 
 
 Representation theory and arithmetic:

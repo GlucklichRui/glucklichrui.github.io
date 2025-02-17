@@ -47,7 +47,7 @@ Representation theory and arithmetic:
 [Theta correspondence in the stable range](https://glucklichrui.github.io/files/Theta_stable.pdf), [Transcendental version of the theory of spherical harmonics](https://glucklichrui.github.io/files/spherical_harmonics.pdf), [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf), [Representations of Metaplectic group](https://glucklichrui.github.io/files/Metaplectic_group.pdf)
 
 
-[Periods of Eisenstein series](https://glucklichrui.github.io/files/Eisenstein_series.pdf)
+[Periods of Eisenstein series](https://glucklichrui.github.io/files/Eisenstein_series.pdf), [Periods of Eisenstein series-Galois case](https://glucklichrui.github.io/files/Galois_periods.pdf)
 
 
 [Shimura varieties](https://glucklichrui.github.io/files/Shimura_varieties.pdf) 

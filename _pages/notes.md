@@ -71,6 +71,9 @@ Classics:
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)
 
 
+[Spherical functions on a group of a p-adic type](https://glucklichrui.github.io/files/Mac.pdf)
+
+
 [Adams' conjectures](https://glucklichrui.github.io/files/dual_pairs.pdf)
 
 

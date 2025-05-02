@@ -46,6 +46,10 @@ Representation theory and arithmetic:
 
 [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf), [Work of Waldspurger](https://glucklichrui.github.io/files/Work_of_Waldspurger.pdf), [L-function for U(3)](https://glucklichrui.github.io/files/U_3.pdf)
 
+
+[The symplectic representation](https://glucklichrui.github.io/files/Symplectic.pdf)
+
+
 [Periods of Eisenstein series](https://glucklichrui.github.io/files/Eisenstein_series.pdf), [Spherical functions on Hermitian forms](https://glucklichrui.github.io/files/Hermitian.pdf), [Spherical functions on Unitary matrices](https://glucklichrui.github.io/files/Unitary.pdf), [Periods of Eisenstein series-Galois case](https://glucklichrui.github.io/files/Galois_periods.pdf)
 
 

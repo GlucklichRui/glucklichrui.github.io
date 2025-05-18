@@ -44,7 +44,7 @@ Harmonic analysis:
 
 Representation theory and arithmetic:
 
-[Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf), [Work of Waldspurger](https://glucklichrui.github.io/files/Work_of_Waldspurger.pdf), [L-function for U(3)](https://glucklichrui.github.io/files/U_3.pdf), [Local Langlands conjecture for G2](https://glucklichrui.github.io/files/LLC.pdf), [Dichotomy for generic supercuspidal representations of G2](https://glucklichrui.github.io/files/Dichotomy.pdf)
+[Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
 
 
 [The symplectic representation](https://glucklichrui.github.io/files/Symplectic.pdf)

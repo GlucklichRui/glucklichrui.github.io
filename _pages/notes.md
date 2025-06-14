@@ -13,23 +13,7 @@ I write some notes, which reflect my understanding and interests on automorphic 
 
 Algebraic groups and Lie groups:
 
-[Root system](https://glucklichrui.github.io/files/Root_system.pdf), [Borel-Tits theory](https://glucklichrui.github.io/files/Borel_Tits_theory.pdf), [Spherical root system](https://glucklichrui.github.io/files/Spherical_root_system.pdf)
-
-
 [Smooth affine spherical varieties](https://glucklichrui.github.io/files/smooth_affine.pdf)
-
-
-[Weylgruppe und Momentabbildung](https://glucklichrui.github.io/files/Weylgruppe.pdf)
-
-
-[Harish-Chandra homomorphism for spherical varieties](https://glucklichrui.github.io/files/Harish_Chandra_homomorphism.pdf) 
-
-
-[Automorphism groups](https://glucklichrui.github.io/files/Automorphism_groups.pdf), [Automorphism groups of multiplicity free Hamiltonian manifolds](https://glucklichrui.github.io/files/Automorphisms_Hamiltonian.pdf) 
-
-
-[Dual group of spherical varieties](https://glucklichrui.github.io/files/Dual_group.pdf)
-
 
 Harmonic analysis: 
 
@@ -48,9 +32,6 @@ Representation theory and arithmetic:
 
 
 [The symplectic representation](https://glucklichrui.github.io/files/Symplectic.pdf)
-
-
-[Periods of Eisenstein series](https://glucklichrui.github.io/files/Eisenstein_series.pdf), [Spherical functions on Hermitian forms](https://glucklichrui.github.io/files/Hermitian.pdf), [Spherical functions on Unitary matrices](https://glucklichrui.github.io/files/Unitary.pdf), [Periods of Eisenstein series-Galois case](https://glucklichrui.github.io/files/Galois_periods.pdf)
 
 
 Calculations and interesting point of views:   

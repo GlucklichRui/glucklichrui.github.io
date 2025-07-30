@@ -54,6 +54,9 @@ Calculations and interesting point of views:
 [Schwartz space of basic affine space](https://glucklichrui.github.io/files/Schwartz.pdf)
 
 
+[Reducibility of principal series](https://glucklichrui.github.io/files/Principal_series.pdf)
+
+
 Classics: 
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)

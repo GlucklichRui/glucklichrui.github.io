@@ -36,7 +36,13 @@ Representation theory and arithmetic:
 
 Calculations and interesting point of views:   
 
-[Koszul duality](https://glucklichrui.github.io/files/Koszul_duality.pdf), [Categorical Plancherel formula](https://glucklichrui.github.io/files/Categorical_Plancherel_formula.pdf)
+[Koszul duality](https://glucklichrui.github.io/files/Koszul_duality.pdf)
+
+
+[Plancherel theoretic formulation of Adams' conjecture](https://glucklichrui.github.io/files/Adams_conjecture.pdf)
+
+
+[Categorical Plancherel formula](https://glucklichrui.github.io/files/Categorical_Plancherel_formula.pdf)
 
 
 [Equivariant cohomology](https://glucklichrui.github.io/files/Equivariant_cohomology.pdf)

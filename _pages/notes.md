@@ -36,6 +36,10 @@ Representation theory and arithmetic:
 
 Calculations and interesting point of views:   
 
+
+[Generic representation for unitary groups](https://glucklichrui.github.io/files/Generic_representations.pdf)
+
+
 [Koszul duality](https://glucklichrui.github.io/files/Koszul_duality.pdf)
 
 

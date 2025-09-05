@@ -90,6 +90,8 @@ Classics:
 [Arthur packets and Ramanujan conjecture](https://glucklichrui.github.io/files/Shahidi.pdf), [Satake isomorphism](https://glucklichrui.github.io/files/Satake.pdf)
 
 
+[Endoscopic classification of representations](https://glucklichrui.github.io/files/Endoscopic_classification.pdf)
+
 
 
 

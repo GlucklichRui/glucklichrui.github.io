@@ -70,7 +70,7 @@ Calculations and interesting point of views:
 [Derived structures in the duality of automorphic periods](https://glucklichrui.github.io/files/Derived_structures.pdf) 
 
 
-[Stabilization of periods of Eisenstein series](https://glucklichrui.github.io/files/Stabilization.pdf) 
+[Whittaker periods](https://glucklichrui.github.io/files/Whittaker.pdf), [Stabilization of periods of Eisenstein series](https://glucklichrui.github.io/files/Stabilization.pdf) 
 
 
 Classics: 

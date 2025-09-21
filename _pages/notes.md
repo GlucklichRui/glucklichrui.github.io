@@ -70,6 +70,9 @@ Calculations and interesting point of views:
 [Derived structures in the duality of automorphic periods](https://glucklichrui.github.io/files/Derived_structures.pdf) 
 
 
+[Stabilization of periods of Eisenstein series](https://glucklichrui.github.io/files/Stabilization.pdf) 
+
+
 Classics: 
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)

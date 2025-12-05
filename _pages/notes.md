@@ -28,6 +28,10 @@ Harmonic analysis:
 
 Representation theory and arithmetic:
 
+
+[Local Langlands correspondence: The Archimedean Case](https://glucklichrui.github.io/files/LLCR.pdf)
+
+
 [Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
 
 

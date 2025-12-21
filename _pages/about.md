@@ -21,6 +21,8 @@ I benefit a lot from the online [automorphic project seminar](https://researchse
 
 
 The following quote from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) describes my feeling between the distinction over number fields and function fields:
+
+
 "Between Zhou and the butterfly, there must be a distinction. This is called the Transformation of Things."
 
  

@@ -20,7 +20,7 @@ I am interested about the [relative Langlands duality](https://math.jhu.edu/~sak
 I benefit a lot from the online [automorphic project seminar](https://researchseminars.org/seminar/AutomorphicProject) and [atlas seminar](https://researchseminars.org/seminar/atlas).
 
 
-
-
+The following quote from [Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book)) describes my feeling between the distinction over number fields and function fields:
+"Between Zhou and the butterfly, there must be a distinction. This is called the Transformation of Things."
 
  

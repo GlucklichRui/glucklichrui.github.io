@@ -26,55 +26,7 @@ Harmonic analysis:
 [Explicit Plancherel formula for the space of symplectic forms](https://glucklichrui.github.io/files/Explicit.pdf) 
 
 
-Representation theory and arithmetic:
-
-
-[Local Langlands correspondence: The Archimedean Case](https://glucklichrui.github.io/files/LLCR.pdf)
-
-
-[Howe duality](https://glucklichrui.github.io/files/Howe_duality.pdf)
-
-
-[The symplectic representation](https://glucklichrui.github.io/files/Symplectic.pdf)
-
-
-Calculations and interesting point of views:   
-
-
-[Generic representation for unitary groups](https://glucklichrui.github.io/files/Generic_representations.pdf)
-
-
-[Koszul duality](https://glucklichrui.github.io/files/Koszul_duality.pdf)
-
-
-[Plancherel theoretic formulation of Adams' conjecture](https://glucklichrui.github.io/files/Adams_conjecture.pdf)
-
-
-[Categorical Plancherel formula](https://glucklichrui.github.io/files/Categorical_Plancherel_formula.pdf)
-
-
-[Equivariant cohomology](https://glucklichrui.github.io/files/Equivariant_cohomology.pdf)
-
-
-[Moment maps and geometric invariant theory](https://glucklichrui.github.io/files/moment_maps.pdf)
-
-
-[Wave front sets](https://glucklichrui.github.io/files/Wave_front_sets.pdf) 
-
-
-[An Euler system of Heegner type](https://glucklichrui.github.io/files/Euler_Heegner.pdf) 
-
-
-[Schwartz space of basic affine space](https://glucklichrui.github.io/files/Schwartz.pdf)
-
-
-[Reducibility of principal series](https://glucklichrui.github.io/files/Principal_series.pdf)
-
-
-[Derived structures in the duality of automorphic periods](https://glucklichrui.github.io/files/Derived_structures.pdf) 
-
-
-[Whittaker periods](https://glucklichrui.github.io/files/Whittaker.pdf), [Stabilization of periods of Eisenstein series](https://glucklichrui.github.io/files/Stabilization.pdf) 
+Examples:    
 
 
 Classics: 

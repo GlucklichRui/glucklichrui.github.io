@@ -30,7 +30,7 @@ Classics:
 [Factorization of Period Integrals](https://glucklichrui.github.io/files/Factorization.pdf) 
 
 
-[Arthur packets and Ramanujan conjecture](https://glucklichrui.github.io/files/Shahidi.pdf), [Satake isomorphism](https://glucklichrui.github.io/files/Satake.pdf)
+[Arthur packets and Ramanujan conjecture](https://glucklichrui.github.io/files/Shahidi.pdf)
 
 
 [Endoscopic classification of representations](https://glucklichrui.github.io/files/Endoscopic_classification.pdf), [Base change for GL(2)](https://glucklichrui.github.io/files/Base_change_2.pdf), [Base change and the advanced theory of the trace formula](https://glucklichrui.github.io/files/Base_change.pdf)

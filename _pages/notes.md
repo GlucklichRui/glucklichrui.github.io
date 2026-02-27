@@ -22,7 +22,11 @@ Integral representation of L-functions:
 Examples:    
 
 
+[Explicit formula for Shalika models](https://glucklichrui.github.io/files/Shalika.pdf)
+
+
 Classics: 
+
 
 [Luna's theory of spherical systems](https://glucklichrui.github.io/files/Spherical_system.pdf), [Primitive wonderful varieties](https://glucklichrui.github.io/files/Primitive_wonderful_varieties.pdf)
 

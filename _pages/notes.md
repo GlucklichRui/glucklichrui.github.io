@@ -16,6 +16,9 @@ Algebraic groups and Lie groups:
 [Smooth affine spherical varieties](https://glucklichrui.github.io/files/smooth_affine.pdf)
 
 
+[Structure theory of Whittaker induction](https://glucklichrui.github.io/files/Whittaker.pdf)
+
+
 Integral representation of L-functions:  
 
 

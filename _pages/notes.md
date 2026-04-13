@@ -28,6 +28,9 @@ Examples:
 [Explicit formula for Shalika models](https://glucklichrui.github.io/files/Shalika.pdf)
 
 
+[Unramified computation for strongly tempered spherical varieties](http://glucklichrui.github.io/files/Strong.pdf)
+
+
 Classics: 
 
 

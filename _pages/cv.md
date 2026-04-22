@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Seminar talks and CV"
+title: "Invited talks" 
 permalink: /cv/
 author_profile: true
 redirect_from:

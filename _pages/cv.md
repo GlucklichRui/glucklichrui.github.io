@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Seminar talks and CV"
 permalink: /cv/
 author_profile: true
 redirect_from:

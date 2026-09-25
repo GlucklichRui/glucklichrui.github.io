@@ -31,6 +31,9 @@ Examples:
 [Unramified computation for strongly tempered spherical varieties](http://glucklichrui.github.io/files/Strongly.pdf)
 
 
+AI generated notes: 
+
+
 Classics: 
 
 

@@ -37,6 +37,9 @@ AI assisted examples:
 [Open periods for basic spherical varieties](https://glucklichrui.github.io/files/Open_period.pdf)
 
 
+[LLC for covering groups](https://glucklichrui.github.io/files/LLC_covering.pdf)
+
+
 Classics: 
 
 

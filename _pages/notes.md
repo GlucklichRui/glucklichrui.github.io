@@ -37,10 +37,10 @@ AI assisted examples:
 [Open periods for basic spherical varieties](https://glucklichrui.github.io/files/Open_period.pdf)
 
 
-[LLC for covering groups](https://glucklichrui.github.io/files/LLC_covering.pdf)
-
-
 [Computation of the unramified Plancherel measure](https://glucklichrui.github.io/files/Unramified_Plancherel.pdf) 
+
+
+[LLC for covering groups](https://glucklichrui.github.io/files/LLC_covering.pdf), [Dual groups for covering groups](https://glucklichrui.github.io/files/Dual_groups.pdf)
 
 
 Classics: 

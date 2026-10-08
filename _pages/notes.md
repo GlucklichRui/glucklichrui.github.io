@@ -40,6 +40,9 @@ AI assisted examples:
 [LLC for covering groups](https://glucklichrui.github.io/files/LLC_covering.pdf)
 
 
+[Computation of the unramified Plancherel measure](https://glucklichrui.github.io/files/Unramified_Plancherel.pdf) 
+
+
 Classics: 
 
 

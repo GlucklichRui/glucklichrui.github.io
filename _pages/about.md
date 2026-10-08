@@ -20,7 +20,6 @@ I am interested about the [relative Langlands duality](https://math.jhu.edu/~sak
 I benefit a lot from the online [automorphic project seminar](https://researchseminars.org/seminar/AutomorphicProject) and [atlas seminar](https://researchseminars.org/seminar/atlas).
 
 
-The Landscape of Langlands program: 
 
 
  

@@ -34,6 +34,9 @@ Examples:
 AI assisted examples: 
 
 
+[k-forms for basic spherical varieties](https://glucklichrui.github.io/files/basic.pdf)
+
+
 [Open periods for basic spherical varieties](https://glucklichrui.github.io/files/Open_period.pdf)
 
 

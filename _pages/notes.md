@@ -19,6 +19,9 @@ Algebraic groups and Lie groups:
 [Structure theory of Whittaker induction](https://glucklichrui.github.io/files/Whittaker.pdf)
 
 
+[A splitting lemma](https://glucklichrui.github.io/files/Splitting.pdf)
+
+
 Integral representation of L-functions:  
 
 

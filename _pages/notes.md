@@ -37,7 +37,7 @@ Examples:
 AI assisted examples: 
 
 
-[A p-stable but not stable symmetric pair](https://glucklichrui.github.io/files/symmetric.pdf), [p-stability and stability](https://glucklichrui.github.io/files/p-stable.pdf)
+[A p-stable but not stable symmetric pair](https://glucklichrui.github.io/files/symmetric.pdf), [p-stability and stability](https://glucklichrui.github.io/files/p-stability.pdf)
 
 
 [k-forms for basic spherical varieties](https://glucklichrui.github.io/files/basic.pdf)
